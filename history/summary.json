@@ -76,19 +76,19 @@
     "url": "$MELLOW_POCKETBASE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mellow-pocketbase",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 1333,
+    "timeDay": 1333,
+    "timeWeek": 1333,
+    "timeMonth": 1333,
+    "timeYear": 1333,
     "dailyMinutesDown": {
-      "2023-05-09": 7
+      "2023-05-09": 58
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "$LOGS_POCKETBASE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "logs-pocketbase",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 656,
+    "timeDay": 656,
+    "timeWeek": 656,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {
-      "2023-05-09": 7
+      "2023-05-09": 58
     }
   },
   {
