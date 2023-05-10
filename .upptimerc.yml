@@ -4,6 +4,8 @@ user-agent: tinawng
 
 sites:
   # Kiko
+  - name: ⛩️ Torii
+    url: $TORII_URL
   - name: Merge
     url: https://merge.tina.cafe/
   - name: Mellow
