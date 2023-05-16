@@ -4,19 +4,19 @@
     "url": "$TORII_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "torii",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 2143,
-    "timeWeek": 1047,
-    "timeMonth": 1047,
-    "timeYear": 1047,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1007,
+    "timeDay": 1656,
+    "timeWeek": 1007,
+    "timeMonth": 1007,
+    "timeYear": 1007,
     "dailyMinutesDown": {
-      "2023-05-16": 0
+      "2023-05-16": 9
     }
   },
   {
