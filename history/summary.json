@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "torii",
     "status": "up",
-    "uptime": "17.59%",
+    "uptime": "17.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "6.17%",
-    "uptimeYear": "17.59%",
+    "uptimeMonth": "6.11%",
+    "uptimeYear": "17.58%",
     "time": 762,
     "timeDay": 905,
     "timeWeek": 654,
     "timeMonth": 773,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2023-06-14": 56,
+      "2023-06-14": 82,
       "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
@@ -112,18 +112,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tanabata.tina.cafe.ico",
     "slug": "tanabata",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.94%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.94%",
     "time": 651,
     "timeDay": 731,
     "timeWeek": 648,
     "timeMonth": 643,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2023-06-14": 4
+      "2023-06-14": 30
     }
   },
   {
@@ -132,18 +132,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mellow-pocketbase",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.83%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.83%",
     "time": 648,
     "timeDay": 829,
     "timeWeek": 640,
     "timeMonth": 619,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2023-06-14": 2,
+      "2023-06-14": 28,
       "2023-05-09": 58
     }
   },
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "logs-pocketbase",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.83%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.83%",
     "time": 650,
     "timeDay": 674,
     "timeWeek": 627,
     "timeMonth": 638,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2023-06-14": 1,
+      "2023-06-14": 27,
       "2023-05-09": 58
     }
   },
@@ -174,18 +174,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tina.cafe.ico",
     "slug": "hello",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 606,
     "timeDay": 649,
     "timeWeek": 631,
     "timeMonth": 602,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2023-06-14": 1
+      "2023-06-14": 27
     }
   },
   {
@@ -194,18 +194,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.tina.cafe.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 833,
     "timeDay": 797,
     "timeWeek": 876,
     "timeMonth": 827,
     "timeYear": 833,
     "dailyMinutesDown": {
-      "2023-06-14": 1
+      "2023-06-14": 27
     }
   },
   {
@@ -214,18 +214,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chill.tina.cafe.ico",
     "slug": "chill",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 693,
     "timeDay": 725,
     "timeWeek": 716,
     "timeMonth": 678,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2023-06-14": 1
+      "2023-06-14": 27
     }
   },
   {
@@ -234,18 +234,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nexon.tina.cafe.ico",
     "slug": "nexon",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.92%",
     "time": 790,
     "timeDay": 764,
     "timeWeek": 750,
     "timeMonth": 782,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2023-06-14": 0,
+      "2023-06-14": 26,
       "2023-05-11": 15
     }
   },
@@ -255,18 +255,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/baseliner.tina.cafe.ico",
     "slug": "baseliner",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 691,
     "timeDay": 709,
     "timeWeek": 1138,
     "timeMonth": 709,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2023-06-14": 0
+      "2023-06-14": 26
     }
   },
   {
@@ -275,18 +275,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/watchashfly.tina.cafe.ico",
     "slug": "watch-ash-fly",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 606,
     "timeDay": 648,
     "timeWeek": 673,
     "timeMonth": 592,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2023-06-14": 0
+      "2023-06-14": 26
     }
   },
   {
@@ -295,18 +295,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.tina.cafe.ico",
     "slug": "portal",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 604,
     "timeDay": 761,
     "timeWeek": 621,
     "timeMonth": 606,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-06-14": 0
+      "2023-06-14": 26
     }
   },
   {
@@ -315,18 +315,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/capture.tina.cafe.ico",
     "slug": "capture",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 569,
     "timeDay": 649,
     "timeWeek": 588,
     "timeMonth": 568,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2023-06-14": 0
+      "2023-06-14": 26
     }
   },
   {
@@ -335,18 +335,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/place.tina.cafe.ico",
     "slug": "place",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.95%",
     "time": 595,
     "timeDay": 683,
     "timeWeek": 607,
     "timeMonth": 585,
     "timeYear": 595,
     "dailyMinutesDown": {
-      "2023-06-14": 0
+      "2023-06-14": 26
     }
   }
 ]
