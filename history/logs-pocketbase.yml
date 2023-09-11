@@ -1,7 +1,7 @@
 url: $LOGS_POCKETBASE_URL
-status: down
-code: 503
-responseTime: 13548
-lastUpdated: 2023-09-11T21:40:36.801Z
+status: up
+code: 404
+responseTime: 515
+lastUpdated: 2023-09-11T22:25:17.546Z
 startTime: Tue May 09 2023 20:48:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
