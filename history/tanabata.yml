@@ -1,7 +1,7 @@
 url: https://tanabata.tina.cafe/ping
-status: up
-code: 200
-responseTime: 719
-lastUpdated: 2023-10-27T23:14:27.516Z
+status: down
+code: 503
+responseTime: 517
+lastUpdated: 2023-10-28T06:24:33.905Z
 startTime: Tue May 09 2023 20:48:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
